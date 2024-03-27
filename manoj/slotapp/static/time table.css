@@ -1,0 +1,26 @@
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bg{
+    background-color: rgb(255, 255, 255);
+}
+.table1{
+    background-color: rgb(225, 213, 197);
+    
+}
+.table2{
+    background-color: rgb(180, 204, 84);
+}    
+.dt{
+    background-color: rgb(31, 160, 235);
+}
+.fs{
+    color: rgb(17, 13, 11);
+}
+b{ 
+    color:rgb(245, 245, 245); 
+}
+.mkmk
+{
+    background-color: rgb(14, 192, 205); color: aliceblue;
+}
